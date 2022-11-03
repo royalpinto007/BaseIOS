@@ -62,7 +62,7 @@ let pi: Double = 3.14159265359
 A _String_ is a sequence of characters, like text.
 
 ```swift
-var message: String = "Hello World!"
+var message: String = "Hello World"
 ```
 
 A _boolean_ can be either `true` or `false`. You use booleans for logical operations.
